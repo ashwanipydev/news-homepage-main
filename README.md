@@ -28,8 +28,8 @@ Users should be able to:
 ![](./design/index.html.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/ashwanipydev/news-homepage-main.git)
+- Live Site URL: [live site](https://ashwanipydev.github.io/news-homepage-main/)
 
 ## My process
 
